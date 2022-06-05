@@ -1,0 +1,15 @@
+C:\Users\T-Gamer\Documents\Faculdade\Códigos\CodeProblems\CodePractice\CeaserCipher\bin\Debug\net6.0\CeaserCipher.exe
+C:\Users\T-Gamer\Documents\Faculdade\Códigos\CodeProblems\CodePractice\CeaserCipher\bin\Debug\net6.0\CeaserCipher.deps.json
+C:\Users\T-Gamer\Documents\Faculdade\Códigos\CodeProblems\CodePractice\CeaserCipher\bin\Debug\net6.0\CeaserCipher.runtimeconfig.json
+C:\Users\T-Gamer\Documents\Faculdade\Códigos\CodeProblems\CodePractice\CeaserCipher\bin\Debug\net6.0\CeaserCipher.dll
+C:\Users\T-Gamer\Documents\Faculdade\Códigos\CodeProblems\CodePractice\CeaserCipher\bin\Debug\net6.0\CeaserCipher.pdb
+C:\Users\T-Gamer\Documents\Faculdade\Códigos\CodeProblems\CodePractice\CeaserCipher\obj\Debug\net6.0\CeaserCipher.csproj.AssemblyReference.cache
+C:\Users\T-Gamer\Documents\Faculdade\Códigos\CodeProblems\CodePractice\CeaserCipher\obj\Debug\net6.0\CeaserCipher.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\T-Gamer\Documents\Faculdade\Códigos\CodeProblems\CodePractice\CeaserCipher\obj\Debug\net6.0\CeaserCipher.AssemblyInfoInputs.cache
+C:\Users\T-Gamer\Documents\Faculdade\Códigos\CodeProblems\CodePractice\CeaserCipher\obj\Debug\net6.0\CeaserCipher.AssemblyInfo.cs
+C:\Users\T-Gamer\Documents\Faculdade\Códigos\CodeProblems\CodePractice\CeaserCipher\obj\Debug\net6.0\CeaserCipher.csproj.CoreCompileInputs.cache
+C:\Users\T-Gamer\Documents\Faculdade\Códigos\CodeProblems\CodePractice\CeaserCipher\obj\Debug\net6.0\CeaserCipher.dll
+C:\Users\T-Gamer\Documents\Faculdade\Códigos\CodeProblems\CodePractice\CeaserCipher\obj\Debug\net6.0\refint\CeaserCipher.dll
+C:\Users\T-Gamer\Documents\Faculdade\Códigos\CodeProblems\CodePractice\CeaserCipher\obj\Debug\net6.0\CeaserCipher.pdb
+C:\Users\T-Gamer\Documents\Faculdade\Códigos\CodeProblems\CodePractice\CeaserCipher\obj\Debug\net6.0\CeaserCipher.genruntimeconfig.cache
+C:\Users\T-Gamer\Documents\Faculdade\Códigos\CodeProblems\CodePractice\CeaserCipher\obj\Debug\net6.0\ref\CeaserCipher.dll
