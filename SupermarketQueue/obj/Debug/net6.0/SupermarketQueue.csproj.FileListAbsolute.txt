@@ -1,0 +1,15 @@
+C:\Users\T-Gamer\Documents\Faculdade\Códigos\CodeProblems\CodePractice\SupermarketQueue\bin\Debug\net6.0\SupermarketQueue.exe
+C:\Users\T-Gamer\Documents\Faculdade\Códigos\CodeProblems\CodePractice\SupermarketQueue\bin\Debug\net6.0\SupermarketQueue.deps.json
+C:\Users\T-Gamer\Documents\Faculdade\Códigos\CodeProblems\CodePractice\SupermarketQueue\bin\Debug\net6.0\SupermarketQueue.runtimeconfig.json
+C:\Users\T-Gamer\Documents\Faculdade\Códigos\CodeProblems\CodePractice\SupermarketQueue\bin\Debug\net6.0\SupermarketQueue.dll
+C:\Users\T-Gamer\Documents\Faculdade\Códigos\CodeProblems\CodePractice\SupermarketQueue\bin\Debug\net6.0\SupermarketQueue.pdb
+C:\Users\T-Gamer\Documents\Faculdade\Códigos\CodeProblems\CodePractice\SupermarketQueue\obj\Debug\net6.0\SupermarketQueue.csproj.AssemblyReference.cache
+C:\Users\T-Gamer\Documents\Faculdade\Códigos\CodeProblems\CodePractice\SupermarketQueue\obj\Debug\net6.0\SupermarketQueue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\T-Gamer\Documents\Faculdade\Códigos\CodeProblems\CodePractice\SupermarketQueue\obj\Debug\net6.0\SupermarketQueue.AssemblyInfoInputs.cache
+C:\Users\T-Gamer\Documents\Faculdade\Códigos\CodeProblems\CodePractice\SupermarketQueue\obj\Debug\net6.0\SupermarketQueue.AssemblyInfo.cs
+C:\Users\T-Gamer\Documents\Faculdade\Códigos\CodeProblems\CodePractice\SupermarketQueue\obj\Debug\net6.0\SupermarketQueue.csproj.CoreCompileInputs.cache
+C:\Users\T-Gamer\Documents\Faculdade\Códigos\CodeProblems\CodePractice\SupermarketQueue\obj\Debug\net6.0\SupermarketQueue.dll
+C:\Users\T-Gamer\Documents\Faculdade\Códigos\CodeProblems\CodePractice\SupermarketQueue\obj\Debug\net6.0\refint\SupermarketQueue.dll
+C:\Users\T-Gamer\Documents\Faculdade\Códigos\CodeProblems\CodePractice\SupermarketQueue\obj\Debug\net6.0\SupermarketQueue.pdb
+C:\Users\T-Gamer\Documents\Faculdade\Códigos\CodeProblems\CodePractice\SupermarketQueue\obj\Debug\net6.0\SupermarketQueue.genruntimeconfig.cache
+C:\Users\T-Gamer\Documents\Faculdade\Códigos\CodeProblems\CodePractice\SupermarketQueue\obj\Debug\net6.0\ref\SupermarketQueue.dll
