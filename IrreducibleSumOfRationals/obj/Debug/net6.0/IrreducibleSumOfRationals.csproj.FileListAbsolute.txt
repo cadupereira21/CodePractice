@@ -1,0 +1,15 @@
+C:\Users\T-Gamer\Documents\Faculdade\Códigos\CodeProblems\CodePractice\IrreducibleSumOfRationals\bin\Debug\net6.0\IrreducibleSumOfRationals.exe
+C:\Users\T-Gamer\Documents\Faculdade\Códigos\CodeProblems\CodePractice\IrreducibleSumOfRationals\bin\Debug\net6.0\IrreducibleSumOfRationals.deps.json
+C:\Users\T-Gamer\Documents\Faculdade\Códigos\CodeProblems\CodePractice\IrreducibleSumOfRationals\bin\Debug\net6.0\IrreducibleSumOfRationals.runtimeconfig.json
+C:\Users\T-Gamer\Documents\Faculdade\Códigos\CodeProblems\CodePractice\IrreducibleSumOfRationals\bin\Debug\net6.0\IrreducibleSumOfRationals.dll
+C:\Users\T-Gamer\Documents\Faculdade\Códigos\CodeProblems\CodePractice\IrreducibleSumOfRationals\bin\Debug\net6.0\IrreducibleSumOfRationals.pdb
+C:\Users\T-Gamer\Documents\Faculdade\Códigos\CodeProblems\CodePractice\IrreducibleSumOfRationals\obj\Debug\net6.0\IrreducibleSumOfRationals.csproj.AssemblyReference.cache
+C:\Users\T-Gamer\Documents\Faculdade\Códigos\CodeProblems\CodePractice\IrreducibleSumOfRationals\obj\Debug\net6.0\IrreducibleSumOfRationals.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\T-Gamer\Documents\Faculdade\Códigos\CodeProblems\CodePractice\IrreducibleSumOfRationals\obj\Debug\net6.0\IrreducibleSumOfRationals.AssemblyInfoInputs.cache
+C:\Users\T-Gamer\Documents\Faculdade\Códigos\CodeProblems\CodePractice\IrreducibleSumOfRationals\obj\Debug\net6.0\IrreducibleSumOfRationals.AssemblyInfo.cs
+C:\Users\T-Gamer\Documents\Faculdade\Códigos\CodeProblems\CodePractice\IrreducibleSumOfRationals\obj\Debug\net6.0\IrreducibleSumOfRationals.csproj.CoreCompileInputs.cache
+C:\Users\T-Gamer\Documents\Faculdade\Códigos\CodeProblems\CodePractice\IrreducibleSumOfRationals\obj\Debug\net6.0\IrreducibleSumOfRationals.dll
+C:\Users\T-Gamer\Documents\Faculdade\Códigos\CodeProblems\CodePractice\IrreducibleSumOfRationals\obj\Debug\net6.0\refint\IrreducibleSumOfRationals.dll
+C:\Users\T-Gamer\Documents\Faculdade\Códigos\CodeProblems\CodePractice\IrreducibleSumOfRationals\obj\Debug\net6.0\IrreducibleSumOfRationals.pdb
+C:\Users\T-Gamer\Documents\Faculdade\Códigos\CodeProblems\CodePractice\IrreducibleSumOfRationals\obj\Debug\net6.0\IrreducibleSumOfRationals.genruntimeconfig.cache
+C:\Users\T-Gamer\Documents\Faculdade\Códigos\CodeProblems\CodePractice\IrreducibleSumOfRationals\obj\Debug\net6.0\ref\IrreducibleSumOfRationals.dll
