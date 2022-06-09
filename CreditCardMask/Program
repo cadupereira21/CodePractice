@@ -1,4 +1,4 @@
-public static class Kata
+public static class Program
 {
   // return masked string
   public static string Maskify(string cc)

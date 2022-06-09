@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\T-Gamer\\Documents\\Faculdade\\Códigos\\CodeProblems\\CodePractice\\SupermarketQueue\\SupermarketQueue.csproj": {}
+    "c:\\Users\\T-Gamer\\Documents\\Faculdade\\Códigos\\CodeProblems\\CodePractice\\SupermarketQueue\\SupermarketQueue.csproj": {}
   },
   "projects": {
-    "C:\\Users\\T-Gamer\\Documents\\Faculdade\\Códigos\\CodeProblems\\CodePractice\\SupermarketQueue\\SupermarketQueue.csproj": {
+    "c:\\Users\\T-Gamer\\Documents\\Faculdade\\Códigos\\CodeProblems\\CodePractice\\SupermarketQueue\\SupermarketQueue.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\T-Gamer\\Documents\\Faculdade\\Códigos\\CodeProblems\\CodePractice\\SupermarketQueue\\SupermarketQueue.csproj",
+        "projectUniqueName": "c:\\Users\\T-Gamer\\Documents\\Faculdade\\Códigos\\CodeProblems\\CodePractice\\SupermarketQueue\\SupermarketQueue.csproj",
         "projectName": "SupermarketQueue",
-        "projectPath": "C:\\Users\\T-Gamer\\Documents\\Faculdade\\Códigos\\CodeProblems\\CodePractice\\SupermarketQueue\\SupermarketQueue.csproj",
+        "projectPath": "c:\\Users\\T-Gamer\\Documents\\Faculdade\\Códigos\\CodeProblems\\CodePractice\\SupermarketQueue\\SupermarketQueue.csproj",
         "packagesPath": "C:\\Users\\T-Gamer\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\T-Gamer\\Documents\\Faculdade\\Códigos\\CodeProblems\\CodePractice\\SupermarketQueue\\obj\\",
+        "outputPath": "c:\\Users\\T-Gamer\\Documents\\Faculdade\\Códigos\\CodeProblems\\CodePractice\\SupermarketQueue\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\T-Gamer\\AppData\\Roaming\\NuGet\\NuGet.Config"
