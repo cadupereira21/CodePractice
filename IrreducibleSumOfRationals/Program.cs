@@ -7,13 +7,17 @@ namespace IrreducibleSumOfRationals
 
         public static void Main(){
 
-            int[,] aux = {{1,5}, {1, 10}, {1, 65}};
+            int[,] aux = {{1,2}, {2,9}, {3,18}, {4,24}, {6,48}};
 
-            SumFracts(aux);
+            Console.WriteLine(SumFracts(aux));
         }
 
         private static string SumFracts(int[,] l) 
         {
+            if(l.Length == 0){
+                return "null";
+            }
+
             List<int> denominator = new List<int>();
             List<int> numerator = new List<int>();
 
@@ -27,7 +31,7 @@ namespace IrreducibleSumOfRationals
 
             
 
-            /*
+            /* [TODO]
              * 1. Descobrir minimo multiplo comum
              * 2. Transformar denominadores
              * 3. Transformar numeradores
@@ -35,23 +39,20 @@ namespace IrreducibleSumOfRationals
              * 5. Retornar resposta
              */
 
+            var auxList = CloneList(denominator);
             var leastCommonMultiple = Mmc(denominator);
 
             for(int i = 0; i < numerator.Count; i++){
-                denominator[i] = leastCommonMultiple;
-                numerator[i] = numerator[i] * (leastCommonMultiple/denominator[i]);
+                numerator[i] = numerator[i] * (leastCommonMultiple/auxList[i]);
             }
 
-            foreach(var d in denominator){
-                Console.WriteLine(d);
-            }
-            
-            foreach(var n in numerator){
-                Console.WriteLine(n);
-            }
-            //var leastCommonMultiple = 
+            var numeratorSum = numerator.Sum();
 
-            return "";
+            if(numeratorSum%leastCommonMultiple == 0){
+                return (numeratorSum/leastCommonMultiple).ToString();
+            }
+
+            return "[" + numeratorSum + ", " + leastCommonMultiple + "]";
         }
         
         private static int Mdc(int a, int b){
@@ -79,6 +80,15 @@ namespace IrreducibleSumOfRationals
             }
 
             return Mmc(denominator);
+        }
+
+        private static List<int> CloneList(List<int> toBeCloned){
+            List<int> target = new List<int>();
+            foreach(var obj in toBeCloned){
+                target.Add(obj);
+            }
+
+            return target;
         }
 
     }
