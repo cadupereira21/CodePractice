@@ -1,10 +1,10 @@
-#Irreducible Sum of Rationals
-######C#
+# Irreducible Sum of Rationals
+###### C#
 ___
-###Enunciado
+### Enunciado
 You will have a list of rationals in the form
 
-`lst = [ [numer_1, denom_1] , ... , [numer_n, denom_n] ]`<br/><br/>
+` lst = [ [numer_1, denom_1] , ... , [numer_n, denom_n] ] `<br/><br/>
 or <br/><br/>
 `lst = [ (numer_1, denom_1) , ... , (numer_n, denom_n) ]`
 
@@ -22,7 +22,7 @@ If the input list is empty, return
 
 `nil/None/null/Nothing`<br/><br/>
 
-###Exemplo
+### Exemplo
 `[ [1, 2], [1, 3], [1, 4] ]  -->  [13, 12]`<br>
 `1/2  +  1/3  +  1/4     =      13/12`
 ___
