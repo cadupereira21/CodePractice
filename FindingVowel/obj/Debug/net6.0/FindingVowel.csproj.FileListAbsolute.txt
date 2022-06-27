@@ -1,0 +1,15 @@
+C:\Users\T-Gamer\Documents\Faculdade\Códigos\CodeProblems\CodePractice\FindingVowel\obj\Debug\net6.0\FindingVowel.csproj.AssemblyReference.cache
+C:\Users\T-Gamer\Documents\Faculdade\Códigos\CodeProblems\CodePractice\FindingVowel\obj\Debug\net6.0\FindingVowel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\T-Gamer\Documents\Faculdade\Códigos\CodeProblems\CodePractice\FindingVowel\obj\Debug\net6.0\FindingVowel.AssemblyInfoInputs.cache
+C:\Users\T-Gamer\Documents\Faculdade\Códigos\CodeProblems\CodePractice\FindingVowel\obj\Debug\net6.0\FindingVowel.AssemblyInfo.cs
+C:\Users\T-Gamer\Documents\Faculdade\Códigos\CodeProblems\CodePractice\FindingVowel\obj\Debug\net6.0\FindingVowel.csproj.CoreCompileInputs.cache
+C:\Users\T-Gamer\Documents\Faculdade\Códigos\CodeProblems\CodePractice\FindingVowel\bin\Debug\net6.0\FindingVowel.exe
+C:\Users\T-Gamer\Documents\Faculdade\Códigos\CodeProblems\CodePractice\FindingVowel\bin\Debug\net6.0\FindingVowel.deps.json
+C:\Users\T-Gamer\Documents\Faculdade\Códigos\CodeProblems\CodePractice\FindingVowel\bin\Debug\net6.0\FindingVowel.runtimeconfig.json
+C:\Users\T-Gamer\Documents\Faculdade\Códigos\CodeProblems\CodePractice\FindingVowel\bin\Debug\net6.0\FindingVowel.dll
+C:\Users\T-Gamer\Documents\Faculdade\Códigos\CodeProblems\CodePractice\FindingVowel\bin\Debug\net6.0\FindingVowel.pdb
+C:\Users\T-Gamer\Documents\Faculdade\Códigos\CodeProblems\CodePractice\FindingVowel\obj\Debug\net6.0\FindingVowel.dll
+C:\Users\T-Gamer\Documents\Faculdade\Códigos\CodeProblems\CodePractice\FindingVowel\obj\Debug\net6.0\refint\FindingVowel.dll
+C:\Users\T-Gamer\Documents\Faculdade\Códigos\CodeProblems\CodePractice\FindingVowel\obj\Debug\net6.0\FindingVowel.pdb
+C:\Users\T-Gamer\Documents\Faculdade\Códigos\CodeProblems\CodePractice\FindingVowel\obj\Debug\net6.0\FindingVowel.genruntimeconfig.cache
+C:\Users\T-Gamer\Documents\Faculdade\Códigos\CodeProblems\CodePractice\FindingVowel\obj\Debug\net6.0\ref\FindingVowel.dll

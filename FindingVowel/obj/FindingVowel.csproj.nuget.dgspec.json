@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\T-Gamer\\Documents\\Faculdade\\Códigos\\CodeProblems\\CodePractice\\IrreducibleSumOfRationals\\IrreducibleSumOfRationals.csproj": {}
+    "C:\\Users\\T-Gamer\\Documents\\Faculdade\\Códigos\\CodeProblems\\CodePractice\\FindingVowel\\FindingVowel.csproj": {}
   },
   "projects": {
-    "c:\\Users\\T-Gamer\\Documents\\Faculdade\\Códigos\\CodeProblems\\CodePractice\\IrreducibleSumOfRationals\\IrreducibleSumOfRationals.csproj": {
+    "C:\\Users\\T-Gamer\\Documents\\Faculdade\\Códigos\\CodeProblems\\CodePractice\\FindingVowel\\FindingVowel.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\T-Gamer\\Documents\\Faculdade\\Códigos\\CodeProblems\\CodePractice\\IrreducibleSumOfRationals\\IrreducibleSumOfRationals.csproj",
-        "projectName": "IrreducibleSumOfRationals",
-        "projectPath": "c:\\Users\\T-Gamer\\Documents\\Faculdade\\Códigos\\CodeProblems\\CodePractice\\IrreducibleSumOfRationals\\IrreducibleSumOfRationals.csproj",
+        "projectUniqueName": "C:\\Users\\T-Gamer\\Documents\\Faculdade\\Códigos\\CodeProblems\\CodePractice\\FindingVowel\\FindingVowel.csproj",
+        "projectName": "FindingVowel",
+        "projectPath": "C:\\Users\\T-Gamer\\Documents\\Faculdade\\Códigos\\CodeProblems\\CodePractice\\FindingVowel\\FindingVowel.csproj",
         "packagesPath": "C:\\Users\\T-Gamer\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\T-Gamer\\Documents\\Faculdade\\Códigos\\CodeProblems\\CodePractice\\IrreducibleSumOfRationals\\obj\\",
+        "outputPath": "C:\\Users\\T-Gamer\\Documents\\Faculdade\\Códigos\\CodeProblems\\CodePractice\\FindingVowel\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\T-Gamer\\AppData\\Roaming\\NuGet\\NuGet.Config"
