@@ -1,3 +1,5 @@
+using System;
+
 namespace CeaserCipher
 {
     public static class CipherManager

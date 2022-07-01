@@ -1,0 +1,15 @@
+C:\Users\T-Gamer\Documents\Faculdade\Códigos\CodeProblems\CodePractice\ReplaceWithAplhabetPosition\ReplaceWithAplhabetPosition\bin\Debug\net6.0\ReplaceWithAplhabetPosition.exe
+C:\Users\T-Gamer\Documents\Faculdade\Códigos\CodeProblems\CodePractice\ReplaceWithAplhabetPosition\ReplaceWithAplhabetPosition\bin\Debug\net6.0\ReplaceWithAplhabetPosition.deps.json
+C:\Users\T-Gamer\Documents\Faculdade\Códigos\CodeProblems\CodePractice\ReplaceWithAplhabetPosition\ReplaceWithAplhabetPosition\bin\Debug\net6.0\ReplaceWithAplhabetPosition.runtimeconfig.json
+C:\Users\T-Gamer\Documents\Faculdade\Códigos\CodeProblems\CodePractice\ReplaceWithAplhabetPosition\ReplaceWithAplhabetPosition\bin\Debug\net6.0\ReplaceWithAplhabetPosition.dll
+C:\Users\T-Gamer\Documents\Faculdade\Códigos\CodeProblems\CodePractice\ReplaceWithAplhabetPosition\ReplaceWithAplhabetPosition\bin\Debug\net6.0\ReplaceWithAplhabetPosition.pdb
+C:\Users\T-Gamer\Documents\Faculdade\Códigos\CodeProblems\CodePractice\ReplaceWithAplhabetPosition\ReplaceWithAplhabetPosition\obj\Debug\net6.0\ReplaceWithAplhabetPosition.csproj.AssemblyReference.cache
+C:\Users\T-Gamer\Documents\Faculdade\Códigos\CodeProblems\CodePractice\ReplaceWithAplhabetPosition\ReplaceWithAplhabetPosition\obj\Debug\net6.0\ReplaceWithAplhabetPosition.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\T-Gamer\Documents\Faculdade\Códigos\CodeProblems\CodePractice\ReplaceWithAplhabetPosition\ReplaceWithAplhabetPosition\obj\Debug\net6.0\ReplaceWithAplhabetPosition.AssemblyInfoInputs.cache
+C:\Users\T-Gamer\Documents\Faculdade\Códigos\CodeProblems\CodePractice\ReplaceWithAplhabetPosition\ReplaceWithAplhabetPosition\obj\Debug\net6.0\ReplaceWithAplhabetPosition.AssemblyInfo.cs
+C:\Users\T-Gamer\Documents\Faculdade\Códigos\CodeProblems\CodePractice\ReplaceWithAplhabetPosition\ReplaceWithAplhabetPosition\obj\Debug\net6.0\ReplaceWithAplhabetPosition.csproj.CoreCompileInputs.cache
+C:\Users\T-Gamer\Documents\Faculdade\Códigos\CodeProblems\CodePractice\ReplaceWithAplhabetPosition\ReplaceWithAplhabetPosition\obj\Debug\net6.0\ReplaceWithAplhabetPosition.dll
+C:\Users\T-Gamer\Documents\Faculdade\Códigos\CodeProblems\CodePractice\ReplaceWithAplhabetPosition\ReplaceWithAplhabetPosition\obj\Debug\net6.0\refint\ReplaceWithAplhabetPosition.dll
+C:\Users\T-Gamer\Documents\Faculdade\Códigos\CodeProblems\CodePractice\ReplaceWithAplhabetPosition\ReplaceWithAplhabetPosition\obj\Debug\net6.0\ReplaceWithAplhabetPosition.pdb
+C:\Users\T-Gamer\Documents\Faculdade\Códigos\CodeProblems\CodePractice\ReplaceWithAplhabetPosition\ReplaceWithAplhabetPosition\obj\Debug\net6.0\ReplaceWithAplhabetPosition.genruntimeconfig.cache
+C:\Users\T-Gamer\Documents\Faculdade\Códigos\CodeProblems\CodePractice\ReplaceWithAplhabetPosition\ReplaceWithAplhabetPosition\obj\Debug\net6.0\ref\ReplaceWithAplhabetPosition.dll
