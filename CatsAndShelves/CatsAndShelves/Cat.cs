@@ -20,7 +20,7 @@ namespace CatsAndShelves
             toShelve.CatArrive();
             SetCatPosition(toShelve.Id);
             
-            Console.Write($"> LOG: Cat jumped from shelve {fromShelve.Id} to shelve {toShelve.Id}");
+            Console.WriteLine($"\n>>> LOG: Cat jumped from shelve {fromShelve.Id} to shelve {toShelve.Id} <<<\n");
         }
     }
 }
