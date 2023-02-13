@@ -1,0 +1,15 @@
+C:\Users\T-Gamer\Documents\Faculdade\Códigos\CodeProblems\CodePractice\CatsAndShelves\CatsAndShelves\bin\Debug\net6.0\CatsAndShelves.exe
+C:\Users\T-Gamer\Documents\Faculdade\Códigos\CodeProblems\CodePractice\CatsAndShelves\CatsAndShelves\bin\Debug\net6.0\CatsAndShelves.deps.json
+C:\Users\T-Gamer\Documents\Faculdade\Códigos\CodeProblems\CodePractice\CatsAndShelves\CatsAndShelves\bin\Debug\net6.0\CatsAndShelves.runtimeconfig.json
+C:\Users\T-Gamer\Documents\Faculdade\Códigos\CodeProblems\CodePractice\CatsAndShelves\CatsAndShelves\bin\Debug\net6.0\CatsAndShelves.dll
+C:\Users\T-Gamer\Documents\Faculdade\Códigos\CodeProblems\CodePractice\CatsAndShelves\CatsAndShelves\bin\Debug\net6.0\CatsAndShelves.pdb
+C:\Users\T-Gamer\Documents\Faculdade\Códigos\CodeProblems\CodePractice\CatsAndShelves\CatsAndShelves\obj\Debug\net6.0\CatsAndShelves.csproj.AssemblyReference.cache
+C:\Users\T-Gamer\Documents\Faculdade\Códigos\CodeProblems\CodePractice\CatsAndShelves\CatsAndShelves\obj\Debug\net6.0\CatsAndShelves.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\T-Gamer\Documents\Faculdade\Códigos\CodeProblems\CodePractice\CatsAndShelves\CatsAndShelves\obj\Debug\net6.0\CatsAndShelves.AssemblyInfoInputs.cache
+C:\Users\T-Gamer\Documents\Faculdade\Códigos\CodeProblems\CodePractice\CatsAndShelves\CatsAndShelves\obj\Debug\net6.0\CatsAndShelves.AssemblyInfo.cs
+C:\Users\T-Gamer\Documents\Faculdade\Códigos\CodeProblems\CodePractice\CatsAndShelves\CatsAndShelves\obj\Debug\net6.0\CatsAndShelves.csproj.CoreCompileInputs.cache
+C:\Users\T-Gamer\Documents\Faculdade\Códigos\CodeProblems\CodePractice\CatsAndShelves\CatsAndShelves\obj\Debug\net6.0\CatsAndShelves.dll
+C:\Users\T-Gamer\Documents\Faculdade\Códigos\CodeProblems\CodePractice\CatsAndShelves\CatsAndShelves\obj\Debug\net6.0\refint\CatsAndShelves.dll
+C:\Users\T-Gamer\Documents\Faculdade\Códigos\CodeProblems\CodePractice\CatsAndShelves\CatsAndShelves\obj\Debug\net6.0\CatsAndShelves.pdb
+C:\Users\T-Gamer\Documents\Faculdade\Códigos\CodeProblems\CodePractice\CatsAndShelves\CatsAndShelves\obj\Debug\net6.0\CatsAndShelves.genruntimeconfig.cache
+C:\Users\T-Gamer\Documents\Faculdade\Códigos\CodeProblems\CodePractice\CatsAndShelves\CatsAndShelves\obj\Debug\net6.0\ref\CatsAndShelves.dll
